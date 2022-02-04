@@ -1,2 +1,2 @@
-# siriuso-backend
-Siriuso Backend Monorepository
+# siriuso-godot
+Siriuso Godot Monorepository
